@@ -1,3 +1,4 @@
+require("audio/music-loader.lua")
 require("data/recursos.lua")
 
 -- presets Basicos do mods
